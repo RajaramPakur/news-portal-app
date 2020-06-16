@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import LoginPage from "./form/LoginPage";
 
 export class Content extends Component {
   constructor() {
