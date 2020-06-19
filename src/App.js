@@ -12,7 +12,7 @@ function App() {
       <Router>
         <MainHeader />
         <Route
-          path="/"
+          path="/news-portal-app"
           component={(props) => <MainContent myname="Rajaram" {...props} />}
           exact
         />
